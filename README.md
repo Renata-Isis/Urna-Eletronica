@@ -1,4 +1,4 @@
 # Urna-Eletronica
 Projeto desenvolvido sob orientação do curso B7WEB.
-Porjeto com objetivo de simular uma urna eletrônica onde se vota para vereador e prefeito e vice-prefeito em conjunto, tendo como possibilidade corrigir, votar em branco, votar nulo e confirmar o voto.
+Projeto com objetivo de simular uma urna eletrônica onde se vota para vereador e prefeito e vice-prefeito em conjunto, tendo como possibilidade corrigir, votar em branco, votar nulo e confirmar o voto.
 Foram utilizados vários conteúdos envolvendo JavaScript como array, métodos de array, objetos, JSON, DOM, funções, condicionais.
